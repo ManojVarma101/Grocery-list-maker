@@ -1,0 +1,41 @@
+h1 {
+    background: #2a9500;
+    color: white;
+    padding: 50px;
+    margin-top: 0px;
+    border-radius: 20px;
+}
+
+
+
+
+#center-head{
+    text-align: center;
+}
+
+.row {
+    display: flex;
+    margin: 25px;
+}
+.check {
+    margin-left: 25%;
+    font-size: 20px;
+}
+.label {
+    margin-left: auto;
+    margin-right: 550px;
+}
+footer {
+    display: flex;
+    justify-content: center;
+}
+input[type="submit"] {
+    padding: 15px;
+    width: 100px;
+    border: 2.5px solid #4CAF50;
+    color: white;
+    background: #4CAF50;
+    border-radius: 15px;
+}
+
+input[type="submit"]:hover {background-color: #2a9500}
